@@ -1,4 +1,4 @@
-# Projet World_happiness en collarboration avec J.DETROZ et C.CANALS
+# Projet World_happiness en collaboration avec J.DETROZ et C.CANALS
 
 World_Happiness
 World Happiness est un rapport annuel qui évalue le niveau de bonheur et de bien-être des populations de différents pays du monde au travers de variables telles que le PIB par habitant, la durée de vie, les relations sociales, etc …
